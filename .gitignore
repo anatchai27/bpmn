@@ -1,0 +1,8 @@
+
+*.props
+*.targets
+*obj/
+*bin/
+*.vs/
+*.cache
+*.cs
