@@ -1,8 +1,8 @@
 
 *.props
 *.targets
-*obj/
-*bin/
-*.vs/
+*obj
+*bin
+*.vs
 *.cache
 *.cs
